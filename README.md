@@ -1,6 +1,18 @@
-# COGS118B Project template
-This is your group repo for your final project for COGS118B
+# COGS 118B Project (Group RILS)
 
-This is your repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the three files above on due dates with the required information, the rest is up to you all.
+This is the repository for the WI24 COGS 118B Final Project for the RILS Group. We created a Movie Recommendation System based on K-Means Clustering and Logistic Regression. 
 
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+**Group Members**: 
+- Rebecca Du
+- Lauren Himpelmann
+- Stephanie Lew
+- Ian Zane
+
+**Dataset**:
+- We used the [Movies Daily Update Dataset](https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies) from Kaggle. Click the link in the name to be directed to the page to download the dataset. Due to the large size of the dataset, it was not included in this repository directly. 
+
+**Files**:
+- Proposal_groupRILS.ipynb: Our initial proposal for the project
+- FinalProject_groupRILS.ipynb: Our final writeup for the project
+- All_Code.ipynb: As the name suggests, all our code for the project
+- CombiningUserRating.ipynb: An attempt at combining the user ratings for the various movies
